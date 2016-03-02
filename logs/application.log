@@ -1,0 +1,9 @@
+2016-03-02 10:49:54,407 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-03-02 10:49:54,500 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-03-02 11:00:23,556 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+Loading file ./utils.js
+
